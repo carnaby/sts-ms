@@ -1,6 +1,7 @@
-<pre>
 <?php
+//phpinfo();
 
+//die();
 //$m = new MongoClient(); // connect
 //var_dump($m);
 //$db = $m->foo;
@@ -49,7 +50,6 @@ foreach ($rows as $row) {
 
 echo "END";
 
-phpinfo();
 die();
 
 

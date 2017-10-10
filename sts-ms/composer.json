@@ -1,22 +1,20 @@
 {
-  "name": "marcotroisi/microtranslator",
+  "name": "shirtinator/sts-ms",
   "version": "v0.1",
-  "description": "A Microservice for managing Translations",
+  "description": "Shirtinator Translations Service - Microservice",
   "keywords": [],
   "type": "platform",
   "license": "MIT",
   "authors": [
     {
-      "name": "Marco Troisi",
-      "email": "hello@marcotroisi.com"
+      "name": "Jozef Sokol",
+      "email": "jsokol@shirtinator.com"
     }
   ],
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=5.4.0",
-    "bcosca/fatfree": "dev-master",
-    "moss/locale": ">=1"
+    "php": ">=7.0.0"
   },
   "require-dev": {
     "phpunit/phpunit": "4.1.*"
